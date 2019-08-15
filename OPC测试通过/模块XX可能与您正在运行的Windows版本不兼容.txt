@@ -1,0 +1,5 @@
+系统是win10 64位的，装了VS2015之后运行某个客户端程序系统提示差OPCDAAuto.dll，网上下载了一个，按网上的说法，放在C:\Windows\System32下后
+
+cmd运行  regsvr32 OPCDAAuto.dll 即可。但系统又提示“模块OPCDAAuto.dll可能与你正在运行的Windows版本不兼容。检查该模块是否与regsvr32.exe的x86或x64版” 无奈，找了好多资料终于发现  要把这个文件放在C:\Windows\SysWOW64下。
+
+按照这个方法，我猜64位系统遇到兼容性问题提示“模块"XX"可能与您正在运行的Windows版本不兼容。检查该模块是否与regsvr32.exe的x86或x64版”时，SysWOW64这个文件夹应该是可以试一试的。问题虽小，解决不了要重装系统还是很蛋疼的，所以有必要分享一下经验。

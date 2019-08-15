@@ -1,0 +1,12 @@
+bin\Debug\OPC测试通过.exe.config
+bin\Debug\OPC测试通过.exe
+bin\Debug\OPC测试通过.pdb
+bin\Debug\Interop.OPCAutomation.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.OPCAutomation.dll
+obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+obj\Debug\OPC测试通过.MainFrom.resources
+obj\Debug\OPC测试通过.Properties.Resources.resources
+obj\Debug\OPC测试通过.csproj.GenerateResource.Cache
+obj\Debug\OPC测试通过.exe
+obj\Debug\OPC测试通过.pdb

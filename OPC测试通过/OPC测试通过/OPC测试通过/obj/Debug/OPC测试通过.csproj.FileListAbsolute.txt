@@ -1,0 +1,11 @@
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csprojResolveAssemblyReference.cache
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.GenerateResource.Cache
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+E:\机场\机场廊桥自动驾驶项目\OPC\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
